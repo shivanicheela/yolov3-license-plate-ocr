@@ -1,0 +1,5 @@
+streamlit
+ultralytics
+opencv-python-headless
+PaddleOCR
+paddlepaddle==2.5.2
